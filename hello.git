@@ -1,4 +1,10 @@
 hello my master1
 create dev branch
+<<<<<<< HEAD
 commit no 1
 commit no 2
+=======
+
+
+commit no 3 from copy
+>>>>>>> 05e5ef16acfb72edd46770242c9310cc083ab901
